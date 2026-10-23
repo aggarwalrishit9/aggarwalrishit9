@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" alt="Rishit Aggarwal — Engineering Portfolio" width="100%">
+</p>
 Hey, I'm Rishit 👋
 Electrical and Electronics Engineering Student | VIT Vellore
 I'm interested in building practical engineering projects across electronics, embedded systems, automation, and control engineering.
