@@ -1,45 +1,60 @@
-<p align="center">
+ <p align="center">
   <img src="assets/github-banner.png" alt="Rishit Aggarwal — Engineering Portfolio" width="100%">
 </p>
-Hey, I'm Rishit 👋
-Electrical and Electronics Engineering Student | VIT Vellore
-I'm interested in building practical engineering projects across electronics, embedded systems, automation, and control engineering.
-I enjoy learning by building, testing, troubleshooting, and documenting what I learn.
 
-⚡ Areas of Interest
-- 🔌 Electronics and Circuit Design
-- 🤖 Embedded Systems and IoT
-- ⚙️ Robotics and Automation
-- 📈 Control Systems and MATLAB/Simulink
-- 💻 Programming and AI/ML applications
+# Hi, I'm Rishit 👋
 
-🚀 Featured Projects
-🔹 Tilt-Based LED Waterflow System
+**Electrical & Electronics Engineering Student · VIT Vellore**
+
+Interested in electronics, embedded systems, automation, and control engineering. I enjoy understanding how things work and documenting what I learn through practical projects.
+
+---
+
+## Areas of Interest
+
+- **Electronics:** Circuit design, sensors, and electronic systems
+- **Embedded Systems:** Arduino, ESP32, and IoT
+- **Automation:** Robotics and sensor-based systems
+- **Control Engineering:** System modeling and MATLAB/Simulink
+- **Software:** Programming and AI/ML applications
+
+## Selected Projects
+
+### Tilt-Based LED Waterflow System
 A tilt-controlled LED sequence using a 555 timer, CD4017, and tilt sensors.
 
-🔹 Smart Dustbin
+### Smart Dustbin
 An electronics project exploring sensor-based automation.
 
-🔹 ESP32-CAM Experiments
-Exploring embedded camera hardware, configuration, and vision applications.
+### ESP32-CAM Experiments
+Exploring embedded camera hardware and configuration.
 
-🔹 Control Systems Projects
-Working with system modeling, controller analysis, and MATLAB/Simulink simulations.
+### Control Systems
+Modeling and simulation work using MATLAB/Simulink.
 
-🛠️ Tools & Technologies
+*Project details, implementation status, and supporting files will be documented in their respective repositories.*
+
+## Tools & Technologies
+
 - **Hardware:** Arduino, ESP32, sensors, electronic components
 - **Engineering:** MATLAB, Simulink
-- **Development:** Git, GitHub
-- **Programming:** C/C++, Python
+- **Version Control:** Git, GitHub
+- **Programming:** C/C++, Python — include only what you've used
 
-📚 Currently Learning
+## Currently Learning
+
 - Embedded systems and IoT
 - Control engineering
-- Python and programming fundamentals
-- Version control and technical documentation
+- Python fundamentals
+- Technical documentation and version control
 
-🤝 Connect With Me
-- GitHub: [@aggarwalrishit9](https://github.com/aggarwalrishit9)
-- LinkedIn: https://www.linkedin.com/in/rishit-aggarwal-88504b419/
+## Connect
 
-*Learning by building, testing, and improving.*
+- [GitHub](https://github.com/aggarwalrishit9)
+- [LinkedIn](https://www.linkedin.com/in/rishit-aggarwal-88504b419/)
+
+---
+
+<p align="center">
+  <i>Learning by building, testing, and improving.</i>
+</p>
