@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" alt="Rishit Aggarwal — Engineering Portfolio" width="100%">
+  <img src="assets/github-banner.png" alt="Rishit Aggarwal — Engineering Portfolio" width="100%">
 </p>
 Hey, I'm Rishit 👋
 Electrical and Electronics Engineering Student | VIT Vellore
